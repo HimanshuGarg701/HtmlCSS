@@ -1,0 +1,19 @@
+body{
+	color : blue;
+}
+
+h1{
+	color : red;
+	text-align: center;
+	margin : 10px 15px;
+	border : solid 10px green;
+}
+
+.block1 h2{
+	padding : 10px 15px;
+	color : grey;
+}
+
+#categories {
+	color : green;
+}
