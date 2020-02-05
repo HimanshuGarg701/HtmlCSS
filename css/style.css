@@ -28,3 +28,13 @@ a:hover{
 	color: green;
 
 }
+
+.bigBlock{
+	float : left;
+	width: 33.3%;
+	border : 1px;
+	margin-top: 20px;
+	color: green;
+	box-sizing: border-box;
+	border : dotted 5px grey;
+}
